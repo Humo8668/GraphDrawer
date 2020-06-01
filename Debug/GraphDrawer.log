@@ -1,0 +1,26 @@
+﻿  main.cpp
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\main.cpp(129): warning C4244: 'argument' : conversion from 'time_t' to 'unsigned int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\main.cpp(118): warning C4101: 'k' : unreferenced local variable
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\main.cpp(118): warning C4101: 'j' : unreferenced local variable
+  Window.cpp
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(12): warning C4091: 'typedef ' : ignored on left of 'point_t' when no variable is declared
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(72): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(73): warning C4244: '+=' : conversion from 'double' to 'float', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(125): warning C4305: '=' : truncation from 'double' to 'float'
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(199): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(200): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(201): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(202): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(310): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(311): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(313): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(320): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(321): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(323): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(283): warning C4101: 'p0' : unreferenced local variable
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(283): warning C4101: 'p1' : unreferenced local variable
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(342): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(343): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+e:\docs\programs\c++\utilites\graphdrawer\graphdrawer\window.cpp(348): warning C4244: 'argument' : conversion from 'double' to 'int', possible loss of data
+  Generating Code...
+  GraphDrawer.vcxproj -> E:\Docs\programs\C++\Utilites\GraphDrawer\Debug\GraphDrawer.exe
