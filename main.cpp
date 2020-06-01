@@ -8,7 +8,7 @@
 
 void printHelpMessage()
 {
-	printf("Launch options: GraphDrawer.exe [input_file_name] [-x]\n");
+	printf("Launch options: GraphDrawer.exe [input_file_name] [-x] [-h]\n");
 	printf("Where:\n");
 	printf("\t -x -- read and draw x values on axis;\n");
 	printf("\t -h -- print this help message and exit;\n");
