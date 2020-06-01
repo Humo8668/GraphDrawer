@@ -3,5 +3,5 @@
 
  Launch options: GraphDrawer.exe [input_file_name] [-x] [-h] <br>
  Where: <br>
- &nbsp -x	-	read and draw x values on axis;
- &nbsp -h	-	print this help message and exit;
+ <p> -x	-	read and draw x values on axis; </p>
+ <p> -h	-	print this help message and exit; </p>
