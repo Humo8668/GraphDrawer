@@ -1,5 +1,5 @@
 # GraphDrawer
- Math function's graph drawer. 
+ Math function's graph drawer. Windows application uses <windows.h>.
 
  Launch options: GraphDrawer.exe [input_file_name] [-x] [-h] <br>
  Where: <br>
